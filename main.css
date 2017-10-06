@@ -1,0 +1,42 @@
+body {
+	/*comentario */
+	text-align: center;
+	font-family: 'Basic', sans-serif;
+	color: #A4A4A4;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.cuadrado-color {
+	/*background-color: black*/
+	/*background-color: rgb(0,0,0);*/
+	background-color: #000000;
+	color: #ffffff;
+	padding-bottom: 10px;
+}
+
+h1 {
+	font-family: 'Luckiest Guy', cursive;
+	color: #ffffff;
+}
+
+h3 {
+	font-family: 'Poiret One', cursive;
+}
+
+.contact {
+	padding-top: 20px;
+	padding-bottom: 40px;
+	border: 3px dotted gray; /* solid black= linea solida, dotted black= de puntos, dashed= guiones */
+}
+
+.info-group {
+	padding-bottom: 40px;
+}
+
+
+/*p {
+	color: #FFFFFF;
+}*/
